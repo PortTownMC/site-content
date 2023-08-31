@@ -1,0 +1,16 @@
+{
+  "contents": [
+    {
+      "page": "",
+      "name": "Введение",
+      "type": "page",
+      "path": "wiki/getting-started.md"
+    },
+    {
+      "page": "test1",
+      "name": "Тест 1",
+      "type": "page",
+      "path": "wiki/test1.md"
+    }
+  ]
+}
