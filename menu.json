@@ -11,6 +11,23 @@
       "name": "Тест 1",
       "type": "page",
       "path": "wiki/test1.md"
+    },
+    {
+      "page": "categorytest",
+      "name": "Категория",
+      "type": "category",
+      "items": [
+        {
+          "page": "test2",
+          "name": "test 2",
+          "path": "wiki/test1.md"
+        },
+        {
+          "page": "test3",
+          "name": "test 3",
+          "path": "wiki/getting-started.md"
+        }
+      ]
     }
   ]
 }
